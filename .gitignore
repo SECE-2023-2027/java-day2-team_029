@@ -1,0 +1,18 @@
+# Ignore all Java compiled class files
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore common build and package folders
+target/
+build/
+bin/
+
+# Ignore tool-specific hidden folders
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
